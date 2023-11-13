@@ -1,0 +1,73 @@
+    * {
+        box-sizing: border-box;
+        margin: 0;
+    }
+    
+    nav {
+        height: 20vh;
+        background-image: url("../img/textura1.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    nav h1 {
+        font-size: 5em;
+        color: white;
+        display: inline-block;
+        text-align: right;
+        padding-top: 0.7em;
+        width: 54%;
+    }
+    
+    nav img {
+        max-height: 50%;
+        float: right;
+        margin-right: 4em;
+        margin-top: 1.9em;
+    }
+    
+    section {
+        margin-left: 30em;
+    }
+    
+    table {
+        max-width: 100%;
+        padding: 5rem 0;
+    }
+    
+    table .producto {
+        width: 50%;
+        text-align: center;
+    }
+    
+    .producto img {
+        width: 400px;
+    }
+    
+    td h5 {
+        padding-left: 4em;
+    }
+    
+    td h6 {
+        padding-left: 5em;
+    }
+    
+    footer {
+        background-color: #C74375;
+        height: 10vh;
+        text-align: center;
+        padding-top: 2em;
+    }
+    
+    footer i {
+        color: white;
+    }
+    
+    footer h4 {
+        display: inline-block;
+        color: white;
+    }
+    
+    footer h3 {
+        color: white;
+    }
